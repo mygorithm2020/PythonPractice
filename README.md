@@ -8,8 +8,8 @@
 기본적인 사용법과 알고리즘 공부 등등 여러 실험 및 코드 연습장
 -  [책 : 자료구조와 함께 배우는 알고리즘 입문](./algorithmIntroductionwithDataStructure/)
 
--  [강의 : 알고리즘 강의](./Algorithm_lecture/README.md)
--  [기타](./etc/README.md)
+-  [강의 : 알고리즘 강의](./Algorithm_lecture/)
+-  [기타](./etc/)
 
 ## 환경세팅
 - Python (3.12.1 이상)
