@@ -1,4 +1,4 @@
-from selenium import webdriver
+# from selenium import webdriver
 from urllib.request import Request
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
